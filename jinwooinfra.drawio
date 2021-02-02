@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T13:21:03.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="3wQoIXAW8KXJqrnbMSfa" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T13:22:01.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="rnHC0ridx3N13Av4mAtt" version="14.2.9" type="github">
   <diagram id="ED207h0K6K_MOjYJORUN" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="989" y="446" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wMshQXG43s-jGGAkCz8L-161" value="50.52.42.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="816.75" y="574.5" width="135" height="20" as="geometry" />
+          <mxGeometry x="825" y="582" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfSJ8b2CB49Y89F4jTfu-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#5A30B5;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" parent="1" vertex="1">
           <mxGeometry x="994" y="220" width="30" height="30" as="geometry" />
@@ -292,10 +292,10 @@
           <mxGeometry x="294" y="540" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qndtqw6j1YCROG0_cwLF-100" value="50.51.40.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="466.04" y="575" width="135" height="20" as="geometry" />
+          <mxGeometry x="463" y="581" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qndtqw6j1YCROG0_cwLF-101" value="50.50.40.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="94" y="575" width="135" height="20" as="geometry" />
+          <mxGeometry x="92" y="578" width="135" height="24" as="geometry" />
         </mxCell>
         <mxCell id="qndtqw6j1YCROG0_cwLF-102" value="서울 Region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="100" width="135" height="20" as="geometry" />
